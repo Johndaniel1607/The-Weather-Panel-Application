@@ -34,6 +34,8 @@ namespace Daniel.The_Weather_Panel_Application
 
             IRestResponse response = client.Execute(request);
 
+            var content = response.Content;
+
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
     }
