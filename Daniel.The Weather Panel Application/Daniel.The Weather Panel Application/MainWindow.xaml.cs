@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using RestSharp;
 
 namespace Daniel.The_Weather_Panel_Application
 {
@@ -27,6 +28,12 @@ namespace Daniel.The_Weather_Panel_Application
 
         private void btnGetWeather_Click(object sender, RoutedEventArgs e)
         {
+            var client = new RestClient("https://api.darksky.net/forecast/64ee9d4e589bb2cb3788596fd477b0f7/14.8781,120.4546");
+
+            var request = new RestRequest("", Method.GET);
+
+            IRestResponse response = client.Execute(request);
+
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
     }
