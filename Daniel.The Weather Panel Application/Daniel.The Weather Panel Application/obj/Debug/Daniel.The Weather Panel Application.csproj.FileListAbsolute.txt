@@ -13,3 +13,8 @@ C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\
 C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.csproj.CoreCompileInputs.cache
 C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.exe
 C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\bin\Debug\RestSharp.dll
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\bin\Debug\RestSharp.xml
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.csproj.CopyComplete
