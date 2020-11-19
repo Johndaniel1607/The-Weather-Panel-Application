@@ -24,5 +24,10 @@ namespace Daniel.The_Weather_Panel_Application
         {
             InitializeComponent();
         }
+
+        private void btnGetWeather_Click(object sender, RoutedEventArgs e)
+        {
+            lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
+        }
     }
 }

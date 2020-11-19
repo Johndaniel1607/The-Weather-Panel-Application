@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Label" HorizontalAlignment="Left" Height="80" Margin="10,10,0,0" VerticalAlignment="Top" Width="452" FontSize="36"/>
-        <Button x:Name="btnGetWeather" Content=" Get Weather" HorizontalAlignment="Left" Height="54" Margin="383,325,0,0" VerticalAlignment="Top" Width="342" FontSize="24"/>
+        <Label x:Name="lblSummary" Content="Label" HorizontalAlignment="Left" Height="80" Margin="10,10,0,0" VerticalAlignment="Top" Width="452" FontSize="36" Background="#FFFDF207"/>
+        <Button x:Name="btnGetWeather" Content=" Get Weather" HorizontalAlignment="Left" Height="54" Margin="383,325,0,0" VerticalAlignment="Top" Width="342" FontSize="24" Click="btnGetWeather_Click" Background="#FFECE10A" Foreground="Black"/>
 
     </Grid>
 </Window>

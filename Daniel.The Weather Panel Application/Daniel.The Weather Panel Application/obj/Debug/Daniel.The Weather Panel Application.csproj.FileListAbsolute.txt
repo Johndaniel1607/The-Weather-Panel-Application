@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application_MarkupCompile.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application_MarkupCompile.lref
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\bin\Debug\Daniel.The Weather Panel Application.exe.config
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\bin\Debug\Daniel.The Weather Panel Application.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\bin\Debug\Daniel.The Weather Panel Application.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.g.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The_Weather_Panel_Application.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project7\Danie.The Weather Panel Application\Daniel.The Weather Panel Application\Daniel.The Weather Panel Application\obj\Debug\Daniel.The Weather Panel Application.pdb
