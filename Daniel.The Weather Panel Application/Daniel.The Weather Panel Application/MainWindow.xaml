@@ -5,10 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Daniel.The_Weather_Panel_Application"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="560" Width="800">
     <Grid>
-        <Label x:Name="lblSummary" Content="Summary" HorizontalAlignment="Left" Height="59" Margin="240,79,0,0" VerticalAlignment="Top" Width="516" FontSize="36" Background="#FFFD07F2"/>
-        <Button x:Name="btnGetWeather" Content=" Get Weather" HorizontalAlignment="Left" Height="54" Margin="440,355,0,0" VerticalAlignment="Top" Width="342" FontSize="24" Click="btnGetWeather_Click" Background="#FFEC0AEC" Foreground="Black"/>
+        <Label x:Name="lblSummary" Content="Summary" HorizontalAlignment="Left" Height="59" Margin="240,79,0,0" VerticalAlignment="Top" Width="516" FontSize="36" Background="#FF0782FD"/>
+        <Button x:Name="btnGetWeather" Content=" Get Weather" HorizontalAlignment="Left" Height="54" Margin="440,355,0,0" VerticalAlignment="Top" Width="342" FontSize="24" Click="btnGetWeather_Click" Background="#FF0F8D8D" Foreground="Black"/>
+        <Label x:Name="lblPressure" Content="" HorizontalAlignment="Left" Height="24" Margin="240,143,0,0" VerticalAlignment="Top" Width="425"/>
+        <Label x:Name="lblHumidity" Content="" HorizontalAlignment="Left" Height="24" Margin="240,167,0,0" VerticalAlignment="Top" Width="425"/>
+        <Label x:Name="lblTemperature" Content="" HorizontalAlignment="Left" Height="26" Margin="240,191,0,0" VerticalAlignment="Top" Width="425"/>
+        <Label x:Name="lblWindBearing" Content="" HorizontalAlignment="Left" Height="27" Margin="240,217,0,0" VerticalAlignment="Top" Width="425"/>
+        <Label x:Name="lblWindSpeed" Content="" HorizontalAlignment="Left" Height="25" Margin="240,249,0,0" VerticalAlignment="Top" Width="425"/>
+        <Label x:Name="lblSummary1" Content="" HorizontalAlignment="Left" Height="30" Margin="240,274,0,0" VerticalAlignment="Top" Width="425"/>
 
     </Grid>
 </Window>

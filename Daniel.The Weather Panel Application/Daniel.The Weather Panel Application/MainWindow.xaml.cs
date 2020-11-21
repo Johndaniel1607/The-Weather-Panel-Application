@@ -37,7 +37,19 @@ namespace Daniel.The_Weather_Panel_Application
 
             var content = response.Content;
 
+            var area = JsonConvert.DeserializeObject<WeatherArea>(content);
+
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
+
+            lblSummary.Content = area.Currently.Summary;
+
+            
+            lblPressure.Content = " Pressure :" + area.Currently.pressure;
+            lblHumidity.Content = " Humidity :" + area.Currently.humidity;
+            lblTemperature.Content = " Temperature :" + area.Currently.temperature;
+            lblWindBearing.Content = " WindBearing :" + area.Currently.windbearing;
+            lblWindSpeed.Content = " WindSpeed :" + area.Currently.windspeed;
+            lblSummary1.Content = " Summary : " + area.Currently.Summary;
         }
     }
 }
